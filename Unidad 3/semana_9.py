@@ -1,3 +1,4 @@
+
 class Producto:
     #incio de la clase segun el enunciado de la tarea
     def __init__(self, id, nombre, cantidad, precio):
